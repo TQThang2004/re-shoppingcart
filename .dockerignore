@@ -1,0 +1,54 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Documentation
+README.md
+*.md
+HELP.md
+
+# IDE
+.idea
+.vscode
+*.iml
+*.ipr
+*.iws
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.sts4-cache
+
+# Build
+build/
+.gradle
+gradle/
+!gradle/wrapper/gradle-wrapper.jar
+gradlew
+gradlew.bat
+
+# Environment files
+.env
+.env.*
+
+# CI/CD
+.github/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Test
+src/test/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/

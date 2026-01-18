@@ -24,10 +24,7 @@ HELP.md
 # Build
 build/
 .gradle
-gradle/
-!gradle/wrapper/gradle-wrapper.jar
-gradlew
-gradlew.bat
+# Keep gradle/ directory (needed for wrapper)
 
 # Environment files
 .env
